@@ -381,7 +381,7 @@
       "series": "Yakuza",
       "game": "Yakuza 0",
       "game-genre": "Boss Theme"  
-       }
+    }
   },
   {
      "title": "Reign - Majima Final Long Battle Theme",
@@ -393,7 +393,7 @@
       "series": "Yakuza",
       "game": "Yakuza 0",
       "game-genre": "Long Battle Theme"  
-         }
+    }
   },
   {
      "title": "Fiercest Warrior ver.0 - Jo/So Amon Boss Theme",
@@ -404,7 +404,212 @@
       "console": "PS4",
       "series": "Yakuza",
       "game": "Yakuza 0",
-      "game-genre": "Boss Theme"  
+      "game-genre": "Boss Theme"
+    }
+  },
+  {
+     "title": "Breeze Time - Pocket Circuit Preparation Menu Theme",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=Agf4-xz1BGI&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=34",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "Ignite Your Spirit - Pocket Circuit Racing Theme",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=yiSZIcVlIDs&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=35",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"  
+    }
+  },
+  {
+     "title": "Beyond the Speed - Pocket Circuit Racing Theme",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=PScgGjAeFd4&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=36",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "Glorious Memories - Pocket Circuit Victory Theme",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=RI_rIhBgJyU&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=37",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "Red Radical Rage - Cat Fight Theme",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=Lg6BtT3DvlM&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=38",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "I wanna take you home - Disco Song",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=ByeDY1GPX6U&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=39",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "Friday Night - Disco Song",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=SaNmV7Sx5_M&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=40",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "Queen of the Passion - Disco Song",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=O1s34jE7LQM&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=41",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "I'm gonna make her mine - Disco Song",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=RFbjv3PiLBM&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=42",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "Koi no Disco Queen - Disco Song",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=7HRDMK-ibTc&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=43",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Mini-Game Theme"
+    }
+  },
+  {
+     "title": "JUDGEMENT - Kiryu Version",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=FkVwZMjgjm8&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=44",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Karaoke Song"
+    }
+  },
+  {
+     "title": "24-hour Cinderella",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=VZk0SChlebs&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=45",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Karaoke Song"
+    }
+  },
+  {
+     "title": "×3 Shine",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=kQvplYepj-o&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=46",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Karaoke Song"
+    }
+  },
+  {
+     "title": "Heart Break Mermaid",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=TTnHuOOUmac&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=47",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Karaoke Song"
+    }
+  },
+  {
+     "title": "Judgement - Nishiki Version",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=tMCYbdr3sJA&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=48",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Karaoke Song"
+    }
+  },
+  {
+     "title": "Western Intro Theme",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=zxrXgtSL2Rk&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=49",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Intro Song"
+    }
+  },
+  {
+     "title": "Shonan no Kaze - Bubble",
+    "media": "Yakuza 0",
+    "url": "https://www.youtube.com/watch?v=5Pl3Gq9tAlE&list=PLl5xjikinOjagHJ6CM647PYfw1IonvnSt&index=50",
+    "tags": {
+      "year": 2015,
+      "console": "PS4",
+      "series": "Yakuza",
+      "game": "Yakuza 0",
+      "game-genre": "Intro Song"
+
     }
   }
 ]
